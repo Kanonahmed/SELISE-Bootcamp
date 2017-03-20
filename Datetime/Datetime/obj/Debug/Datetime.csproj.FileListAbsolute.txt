@@ -1,0 +1,6 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Datetime\Datetime\bin\Debug\Datetime.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Datetime\Datetime\bin\Debug\Datetime.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Datetime\Datetime\bin\Debug\Datetime.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Datetime\Datetime\obj\Debug\Datetime.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Datetime\Datetime\obj\Debug\Datetime.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Datetime\Datetime\obj\Debug\Datetime.pdb

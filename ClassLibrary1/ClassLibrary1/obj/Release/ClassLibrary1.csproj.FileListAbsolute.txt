@@ -1,0 +1,5 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

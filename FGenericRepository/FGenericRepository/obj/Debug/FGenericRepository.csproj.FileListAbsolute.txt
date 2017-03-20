@@ -1,0 +1,6 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe.config
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.exe
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\bin\Debug\FGenericRepository.pdb
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.exe
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\FGenericRepository\FGenericRepository\obj\Debug\FGenericRepository.pdb

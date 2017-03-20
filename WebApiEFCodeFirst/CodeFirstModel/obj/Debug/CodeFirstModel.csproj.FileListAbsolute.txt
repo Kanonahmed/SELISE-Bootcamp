@@ -1,0 +1,4 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstModel\bin\Debug\CodeFirstModel.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstModel\bin\Debug\CodeFirstModel.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstModel\obj\Debug\CodeFirstModel.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstModel\obj\Debug\CodeFirstModel.pdb

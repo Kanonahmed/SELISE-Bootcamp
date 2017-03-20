@@ -1,0 +1,6 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\OutAndRef\OutAndRef\bin\Debug\OutAndRef.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\OutAndRef\OutAndRef\bin\Debug\OutAndRef.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\OutAndRef\OutAndRef\bin\Debug\OutAndRef.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\OutAndRef\OutAndRef\obj\Debug\OutAndRef.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\OutAndRef\OutAndRef\obj\Debug\OutAndRef.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\OutAndRef\OutAndRef\obj\Debug\OutAndRef.pdb

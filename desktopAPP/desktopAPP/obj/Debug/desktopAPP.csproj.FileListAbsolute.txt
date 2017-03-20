@@ -1,0 +1,14 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\bin\Debug\desktopAPP.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\bin\Debug\desktopAPP.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\bin\Debug\desktopAPP.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\MainWindow.g.cs
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\App.g.cs
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP_MarkupCompile.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP_MarkupCompile.lref
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\MainWindow.baml
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP.g.resources
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP.Properties.Resources.resources
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP.csproj.GenerateResource.Cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\desktopAPP\desktopAPP\obj\Debug\desktopAPP.pdb

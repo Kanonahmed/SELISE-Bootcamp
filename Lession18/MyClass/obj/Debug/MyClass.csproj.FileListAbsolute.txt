@@ -1,0 +1,5 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClass\bin\Debug\MyClass.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClass\bin\Debug\MyClass.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClass\obj\Debug\MyClass.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClass\obj\Debug\MyClass.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClass\obj\Debug\MyClass.pdb

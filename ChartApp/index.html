@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html ng-controller="ChartController as chrt">
+<head>
+    <title>first page</title>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="assets/favicon-16x16.png">
+    <link rel="stylesheet" href="cdnlink/Angular-Material-Style-Sheet.css">
+    <link rel="stylesheet" href="style/main.css">
+
+    <script src="cdnlink/AngularJS-Main-Library.js"></script>
+    <script src="cdnlink/AngularJS-Animate-Library.js"></script>
+    <script src="cdnlink/AngularJS-Aria-Library.js"></script>
+    <script src="cdnlink/AngularJS-Message-Library.js"></script>
+    <script src="cdnlink/Angular-Material-Library.js"></script>
+    <script src="module/module.js"></script>
+    <script src="chart/chart.min.js"></script>
+    <script src="chart/angular-chart.min.js"></script>
+    <script src="controllers/maincontroller.js"></script>
+    <script src="directives/directive.js"></script>
+    <script src="boot/boot.js"></script>
+</head>
+<body>
+   <div ng-class="{'width-500': chrt.$mdMedia('gt-md'), 'width-300': !chrt.$mdMedia('gt-md')}" layout="row">
+        <canvas id="bar" class="chart chart-bar"
+                chart-data="chrt.data" chart-labels="chrt.labels"chart-series="chrt.series"
+        </canvas> 
+    </div>
+    <!--<digital-clock name="chrt.name" say="chrt.sayhello()">  for using specific controller-->
+
+    <!--   <digital-clock name="chrt.name">
+            print later
+        </digital-clock>-->
+</body>
+</html>

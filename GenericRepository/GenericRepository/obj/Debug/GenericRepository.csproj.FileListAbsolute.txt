@@ -1,0 +1,12 @@
+E:\Software_Dev\project 2015\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe.config
+E:\Software_Dev\project 2015\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe
+E:\Software_Dev\project 2015\GenericRepository\GenericRepository\bin\Debug\GenericRepository.pdb
+E:\Software_Dev\project 2015\GenericRepository\GenericRepository\obj\Debug\GenericRepository.csprojResolveAssemblyReference.cache
+E:\Software_Dev\project 2015\GenericRepository\GenericRepository\obj\Debug\GenericRepository.exe
+E:\Software_Dev\project 2015\GenericRepository\GenericRepository\obj\Debug\GenericRepository.pdb
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe.config
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\GenericRepository\GenericRepository\obj\Debug\GenericRepository.exe
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\GenericRepository\GenericRepository\obj\Debug\GenericRepository.pdb
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\GenericRepository\GenericRepository\bin\Debug\GenericRepository.pdb
+C:\Users\abdul.kuddus\Documents\Visual Studio 2015\Projects\GenericRepository\GenericRepository\obj\Debug\GenericRepository.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\CodeFirstDataAccess.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\CodeFirstModel.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\EntityFramework.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\CodeFirstModel.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\EntityFramework.xml
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.Migrations.initial.resources
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\WebApiEFCodeFirst\CodeFirstDataAccess\obj\Debug\CodeFirstDataAccess.csproj.GenerateResource.Cache

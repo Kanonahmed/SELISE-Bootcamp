@@ -1,0 +1,6 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\SecondAPP\SecondAPP\bin\Debug\SecondAPP.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\SecondAPP\SecondAPP\obj\Debug\SecondAPP.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\SecondAPP\SecondAPP\bin\Debug\SecondAPP.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\SecondAPP\SecondAPP\bin\Debug\SecondAPP.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\SecondAPP\SecondAPP\obj\Debug\SecondAPP.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\SecondAPP\SecondAPP\obj\Debug\SecondAPP.pdb

@@ -1,0 +1,12 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\GenericRepository\GenericRepository\bin\Debug\GenericRepository.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\GenericRepository\GenericRepository\obj\Debug\GenericRepository.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\GenericRepository\GenericRepository\obj\Debug\GenericRepository.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\GenericRepository\GenericRepository\obj\Debug\GenericRepository.pdb
+\\172.16.0.17\dlds\fun\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe.config
+\\172.16.0.17\dlds\fun\GenericRepository\GenericRepository\obj\Debug\GenericRepository.exe
+\\172.16.0.17\dlds\fun\GenericRepository\GenericRepository\obj\Debug\GenericRepository.pdb
+\\172.16.0.17\dlds\fun\GenericRepository\GenericRepository\obj\Debug\GenericRepository.csprojResolveAssemblyReference.cache
+\\172.16.0.17\dlds\fun\GenericRepository\GenericRepository\bin\Debug\GenericRepository.exe
+\\172.16.0.17\dlds\fun\GenericRepository\GenericRepository\bin\Debug\GenericRepository.pdb

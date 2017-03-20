@@ -1,0 +1,8 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\bin\Debug\MyClient.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\bin\Debug\MyClient.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\bin\Debug\MyClient.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\bin\Debug\MyClass.dll
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\bin\Debug\MyClass.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\obj\Debug\MyClient.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\Lession18\MyClient\obj\Debug\MyClient.pdb

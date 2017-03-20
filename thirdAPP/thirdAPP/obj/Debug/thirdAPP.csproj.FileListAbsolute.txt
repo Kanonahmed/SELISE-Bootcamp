@@ -1,0 +1,6 @@
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\thirdAPP\thirdAPP\bin\Debug\thirdAPP.exe.config
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\thirdAPP\thirdAPP\bin\Debug\thirdAPP.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\thirdAPP\thirdAPP\bin\Debug\thirdAPP.pdb
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\thirdAPP\thirdAPP\obj\Debug\thirdAPP.csprojResolveAssemblyReference.cache
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\thirdAPP\thirdAPP\obj\Debug\thirdAPP.exe
+c:\users\abdul.kuddus\documents\visual studio 2015\Projects\thirdAPP\thirdAPP\obj\Debug\thirdAPP.pdb
